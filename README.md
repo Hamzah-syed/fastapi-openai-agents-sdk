@@ -16,7 +16,7 @@ GEMINI_API_KEY=your_key_here
 ## Run
 
 ```bash
-python main.py
+uv run main.py
 ```
 
 Server runs at http://localhost:8000
